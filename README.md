@@ -135,7 +135,7 @@ mahesh@github:~$ whoami
 
   <!-- Snake Contribution Grid Animation -->
   <p align="center">
-    <img width="100%" src="https://raw.githubusercontent.com/Mahesh702p/Mahesh702p/main/assets/github-contribution-grid-snake-dark.svg?v=1" alt="Snake eating GitHub contribution grid" />
+    <img width="100%" src="https://raw.githubusercontent.com/Mahesh702p/Mahesh702p/output/github-snake-dark.svg" alt="Snake eating GitHub contribution grid" />
   </p>
 
 </details>
