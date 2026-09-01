@@ -142,24 +142,29 @@ mahesh@github:~$ whoami
 
 ---
 
-<!-- ══════════════ CONNECT ══════════════ -->
+<!-- ══════════════ LET'S CONNECT ══════════════ -->
 
-<h3 align="center">🔗 Connect</h3>
+<h2>🌐 Let's Connect</h2>
+
+---
 
 <p align="center">
   <a href="https://mahesh702p.github.io/Mahesh-Portfolio/">
-    <img src="https://img.shields.io/badge/🌐_Interactive_Portfolio-0c1017?style=for-the-badge&logo=googlechrome&logoColor=00ff99"/>
+    <img src="https://img.shields.io/badge/PORTFOLIO-MAHESH__PATEL-ff5722?style=for-the-badge&logo=googlechrome&logoColor=white&labelColor=555555"/>
   </a>
   <a href="https://www.linkedin.com/in/mahesh-patel-0308b72ba/">
-    <img src="https://img.shields.io/badge/LinkedIn-0c1017?style=for-the-badge&logo=linkedin&logoColor=00ff99"/>
-  </a>
-  <a href="mailto:patelbhiyaram757@gmail.com">
-    <img src="https://img.shields.io/badge/Email-0c1017?style=for-the-badge&logo=gmail&logoColor=00ff99"/>
+    <img src="https://img.shields.io/badge/LINKEDIN-MAHESH_PATEL-0077b5?style=for-the-badge&logo=linkedin&logoColor=white&labelColor=555555"/>
   </a>
   <a href="https://leetcode.com/u/mahesh_702p/">
-    <img src="https://img.shields.io/badge/LeetCode-0c1017?style=for-the-badge&logo=leetcode&logoColor=00ff99"/>
+    <img src="https://img.shields.io/badge/LEETCODE-@MAHESH__702P-ffa116?style=for-the-badge&logo=leetcode&logoColor=white&labelColor=555555"/>
   </a>
+</p>
+
+<p align="center">
   <a href="https://www.instagram.com/mahesh_702p">
-    <img src="https://img.shields.io/badge/Instagram-0c1017?style=for-the-badge&logo=instagram&logoColor=00ff99"/>
+    <img src="https://img.shields.io/badge/INSTAGRAM-@MAHESH__702P-e4405f?style=for-the-badge&logo=instagram&logoColor=white&labelColor=555555"/>
+  </a>
+  <a href="mailto:patelbhiyaram757@gmail.com">
+    <img src="https://img.shields.io/badge/GMAIL-MAHESH_PATEL-d14836?style=for-the-badge&logo=gmail&logoColor=white&labelColor=555555"/>
   </a>
 </p>
