@@ -40,11 +40,9 @@
 mahesh@github:~$ whoami
 ```
 
-> Hey, I'm Mahesh — an AI & Data Science undergrad at **Thadomal Shahani Engineering College ('27)**, **AI Intern at Hiranandani Group**, and **Placement Coordinator at TSEC**.
+> Backend developer passionate about **AI/ML**, **Linux systems**, and **clean scalable architectures**. Currently pursuing AI&DS at **Thadomal Shahani Engineering College (TSEC)**.
 > 
-> I focus on building robust **Backend Systems**, **AI/ML Workflows**, and **Linux Security Analytics** (like *Warden* & *Municipal Grievance Routing Engine* with 82.87% accuracy).
-> 
-> Currently researching step-level gradient routing frameworks for Reinforcement Learning with Verifiable Rewards (**RLVR**) and Graph Neural Networks (**GNNs**). Finalist at **Augenblick Hackathon 2026**.
+> Outside of that, drawing and creative work play a big role in how I think and express ideas. Always learning and exploring.
 
 ```console
 mahesh@github:~$ cat current_quest.log
