@@ -2,10 +2,10 @@
 <!-- Profile README — Mahesh Patel (@Mahesh702p)                       -->
 <!-- ═══════════════════════════════════════════════════════════════════ -->
 
-<!-- Big Dynamic Default Waving Header -->
+<!-- Big Dynamic Default Waving Header (Ubuntu Font) -->
 <p align="center">
   <a href="https://mahesh702p.github.io/Mahesh-Portfolio/">
-    <img src="https://capsule-render.vercel.app/api?type=waving&height=250&color=gradient&text=MAHESH%20PATEL&fontAlign=50&fontAlignY=40&fontSize=80" alt="Mahesh Patel Header" width="100%" />
+    <img src="https://capsule-render.vercel.app/api?type=waving&height=250&color=gradient&text=Mahesh%20Patel&fontAlign=50&fontAlignY=40&fontSize=80&fontFamily=Ubuntu" alt="Mahesh Patel Header" width="100%" />
   </a>
 </p>
 
