@@ -4,7 +4,7 @@
 
 <p align="center">
   <a href="https://mahesh702p.github.io/Mahesh-Portfolio/">
-    <img src="./assets/hero-banner.svg" alt="Mahesh Patel Portfolio Hero" width="100%" />
+    <img src="https://raw.githubusercontent.com/Mahesh702p/Mahesh702p/main/assets/hero-banner-v2.svg?v=2" alt="Mahesh Patel Portfolio Hero" width="100%" />
   </a>
 </p>
 
