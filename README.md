@@ -2,16 +2,12 @@
 <!-- Profile README — Mahesh Patel (@Mahesh702p)                       -->
 <!-- ═══════════════════════════════════════════════════════════════════ -->
 
-<p align="center">
-  <a href="https://mahesh702p.github.io/Mahesh-Portfolio/">
-    <img src="https://raw.githubusercontent.com/Mahesh702p/Mahesh702p/main/assets/name-banner-v6.svg?v=6" alt="Mahesh Patel ASCII Name" width="100%" />
-  </a>
-</p>
+<h1 align="center">👨‍💻 MAHESH PATEL</h1>
 
 <!-- Typing SVG -->
 <p align="center">
   <a href="https://mahesh702p.github.io/Mahesh-Portfolio/">
-    <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&size=22&duration=3000&pause=1000&color=00FF99&center=true&vCenter=true&repeat=true&width=500&height=50&lines=Backend+Developer;AI+Intern+%40+Hiranandani;AI%2FML+Research+Intern" alt="Typing Title" />
+    <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&size=22&duration=3000&pause=1000&color=00FF99&center=true&vCenter=true&repeat=true&width=600&height=50&lines=Backend+Developer;AI+Intern+%40+Hiranandani;AI%2FML+Research+Intern;Placement+Coordinator+%40+TSEC" alt="Typing Title" />
   </a>
 </p>
 
