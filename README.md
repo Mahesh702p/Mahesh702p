@@ -5,7 +5,7 @@
 <!-- Big Dynamic Waving Banner Header -->
 <p align="center">
   <a href="https://mahesh702p.github.io/Mahesh-Portfolio/">
-    <img src="https://capsule-render.vercel.app/api?type=waving&color=14532d&height=220&section=header&text=MAHESH%20PATEL&fontSize=52&fontColor=00ff99&fontAlign=50&fontAlignY=38&desc=Backend%20Developer%20%7C%20AI%2FML%20Researcher&descSize=20&descAlign=50&descAlignY=62" alt="Mahesh Patel Header" width="100%" />
+    <img src="https://capsule-render.vercel.app/api?type=waving&color=14532d&height=210&section=header&text=MAHESH%20PATEL&fontSize=75&fontColor=00ff99&fontAlign=50&fontAlignY=50" alt="Mahesh Patel Header" width="100%" />
   </a>
 </p>
 
