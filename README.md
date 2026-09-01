@@ -77,49 +77,39 @@ mahesh@github:~$ whoami
 <!-- ══════════════ TECH STACK ══════════════ -->
 
 <details open>
-  <summary><h2>⚡ Tech Stack</h2></summary>
+  <summary><h2>⚡ Tech Arsenal</h2></summary>
 
   <br/>
 
-  #### Languages
-  <p>
-    <img src="https://img.shields.io/badge/Python-0c1017?style=for-the-badge&logo=python&logoColor=00ff99"/>
-    <img src="https://img.shields.io/badge/C++-0c1017?style=for-the-badge&logo=cplusplus&logoColor=00ff99"/>
-    <img src="https://img.shields.io/badge/C-0c1017?style=for-the-badge&logo=c&logoColor=00ff99"/>
-    <img src="https://img.shields.io/badge/SQL-0c1017?style=for-the-badge&logo=postgresql&logoColor=00ff99"/>
-    <img src="https://img.shields.io/badge/JavaScript-0c1017?style=for-the-badge&logo=javascript&logoColor=00ff99"/>
+  <h4 align="center">Languages & Frontend</h4>
+  <p align="center">
+    <img src="https://skillicons.dev/icons?i=py,cpp,c,js,html,css" alt="Languages & Frontend" />
   </p>
 
-  #### AI, ML & NLP
-  <p>
-    <img src="https://img.shields.io/badge/TensorFlow-0c1017?style=for-the-badge&logo=tensorflow&logoColor=00ff99"/>
-    <img src="https://img.shields.io/badge/PyTorch-0c1017?style=for-the-badge&logo=pytorch&logoColor=00ff99"/>
-    <img src="https://img.shields.io/badge/Scikit--Learn-0c1017?style=for-the-badge&logo=scikitlearn&logoColor=00ff99"/>
-    <img src="https://img.shields.io/badge/LangChain-0c1017?style=for-the-badge&logo=chainlink&logoColor=00ff99"/>
-    <img src="https://img.shields.io/badge/FAISS-0c1017?style=for-the-badge&logo=meta&logoColor=00ff99"/>
-    <img src="https://img.shields.io/badge/NumPy-0c1017?style=for-the-badge&logo=numpy&logoColor=00ff99"/>
-    <img src="https://img.shields.io/badge/Pandas-0c1017?style=for-the-badge&logo=pandas&logoColor=00ff99"/>
+  <h4 align="center">Backend & Infrastructure</h4>
+  <p align="center">
+    <img src="https://skillicons.dev/icons?i=fastapi,flask,docker,aws,linux" alt="Backend & Infrastructure" />
   </p>
 
-  #### Web & Backend
-  <p>
-    <img src="https://img.shields.io/badge/FastAPI-0c1017?style=for-the-badge&logo=fastapi&logoColor=00ff99"/>
-    <img src="https://img.shields.io/badge/Flask-0c1017?style=for-the-badge&logo=flask&logoColor=00ff99"/>
-    <img src="https://img.shields.io/badge/REST_APIs-0c1017?style=for-the-badge&logo=postman&logoColor=00ff99"/>
-    <img src="https://img.shields.io/badge/PWA-0c1017?style=for-the-badge&logo=pwa&logoColor=00ff99"/>
+  <h4 align="center">AI / ML Stack</h4>
+  <p align="center">
+    <img src="https://skillicons.dev/icons?i=pytorch,tensorflow" alt="AI/ML Stack" />
+  </p>
+  <p align="center">
+    <img src="https://img.shields.io/badge/LangChain-14532d?style=for-the-badge&logo=chainlink&logoColor=00ff99"/>
+    <img src="https://img.shields.io/badge/Scikit_Learn-14532d?style=for-the-badge&logo=scikitlearn&logoColor=00ff99"/>
+    <img src="https://img.shields.io/badge/FAISS-14532d?style=for-the-badge&logo=meta&logoColor=00ff99"/>
+    <img src="https://img.shields.io/badge/Pandas-14532d?style=for-the-badge&logo=pandas&logoColor=00ff99"/>
+    <img src="https://img.shields.io/badge/NumPy-14532d?style=for-the-badge&logo=numpy&logoColor=00ff99"/>
   </p>
 
-  #### Databases & Tools
-  <p>
-    <img src="https://img.shields.io/badge/PostgreSQL-0c1017?style=for-the-badge&logo=postgresql&logoColor=00ff99"/>
-    <img src="https://img.shields.io/badge/MySQL-0c1017?style=for-the-badge&logo=mysql&logoColor=00ff99"/>
-    <img src="https://img.shields.io/badge/SQLite-0c1017?style=for-the-badge&logo=sqlite&logoColor=00ff99"/>
-    <img src="https://img.shields.io/badge/Docker-0c1017?style=for-the-badge&logo=docker&logoColor=00ff99"/>
-    <img src="https://img.shields.io/badge/Linux-0c1017?style=for-the-badge&logo=linux&logoColor=00ff99"/>
-    <img src="https://img.shields.io/badge/Git-0c1017?style=for-the-badge&logo=git&logoColor=00ff99"/>
-    <img src="https://img.shields.io/badge/AWS-0c1017?style=for-the-badge&logo=amazonwebservices&logoColor=00ff99"/>
-    <img src="https://img.shields.io/badge/Power_BI-0c1017?style=for-the-badge&logo=powerbi&logoColor=00ff99"/>
-    <img src="https://img.shields.io/badge/Tableau-0c1017?style=for-the-badge&logo=tableau&logoColor=00ff99"/>
+  <h4 align="center">Databases & Tools</h4>
+  <p align="center">
+    <img src="https://skillicons.dev/icons?i=postgres,mysql,sqlite,git,vscode" alt="Databases & Tools" />
+  </p>
+  <p align="center">
+    <img src="https://img.shields.io/badge/Power_BI-14532d?style=for-the-badge&logo=powerbi&logoColor=00ff99"/>
+    <img src="https://img.shields.io/badge/Tableau-14532d?style=for-the-badge&logo=tableau&logoColor=00ff99"/>
   </p>
 
 </details>
