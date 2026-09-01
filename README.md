@@ -54,11 +54,8 @@ mahesh@github:~$ whoami
   <br/>
 
   <p align="center">
-    <a href="https://github.com/Mahesh702p/Mahesh-Portfolio">
-      <img width="49%" src="https://github-readme-stats.vercel.app/api/pin/?username=Mahesh702p&repo=Mahesh-Portfolio&theme=react&bg_color=0c1017&title_color=00ff99&hide_border=true&icon_color=F8D866" alt="Portfolio"/>
-    </a>
-    <a href="https://github.com/Mahesh702p/CardVault">
-      <img width="49%" src="https://github-readme-stats.vercel.app/api/pin/?username=Mahesh702p&repo=CardVault&theme=react&bg_color=0c1017&title_color=00ff99&hide_border=true&icon_color=F8D866" alt="CardVault"/>
+    <a href="https://github.com/Mahesh702p?tab=repositories">
+      <img src="https://raw.githubusercontent.com/Mahesh702p/Mahesh702p/main/assets/featured-projects.svg?v=7" alt="Featured Projects: Mahesh-Portfolio & CardVault" width="100%" />
     </a>
   </p>
 
