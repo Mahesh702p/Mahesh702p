@@ -121,8 +121,8 @@ mahesh@github:~$ whoami
   <br/>
 
   <p align="center">
-    <img width="49%" src="https://github-readme-stats-fast.vercel.app/api?username=Mahesh702p&show_icons=true&theme=react&bg_color=0c1017&title_color=00ff99&icon_color=00ff99&text_color=c9d1d9&hide_border=true&count_private=true" alt="GitHub Stats"/>
-    <img width="49%" src="https://github-readme-stats-fast.vercel.app/api/top-langs/?username=Mahesh702p&layout=compact&theme=react&bg_color=0c1017&title_color=00ff99&hide_border=true&langs_count=8" alt="Top Languages"/>
+    <img width="49%" src="https://raw.githubusercontent.com/Mahesh702p/Mahesh702p/main/assets/github-stats.svg?v=1" alt="Mahesh Patel's GitHub Stats"/>
+    <img width="49%" src="https://raw.githubusercontent.com/Mahesh702p/Mahesh702p/main/assets/top-languages.svg?v=1" alt="Most Used Languages"/>
   </p>
 
   <br/>
