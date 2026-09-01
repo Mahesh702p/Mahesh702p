@@ -2,20 +2,25 @@
 <!-- Profile README — Mahesh Patel (@Mahesh702p)                       -->
 <!-- ═══════════════════════════════════════════════════════════════════ -->
 
-<!-- Animated Header -->
-<div align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0c1017,50:1a2332,100:00ff99&height=220&section=header&text=Mahesh%20Patel&fontSize=75&fontAlignY=35&animation=twinkling&fontColor=00ff99" width="100%"/>
-</div>
+<p align="center">
+  <a href="https://mahesh702p.github.io/Mahesh-Portfolio/">
+    <img src="./assets/hero-banner.svg" alt="Mahesh Patel Portfolio Hero" width="100%" />
+  </a>
+</p>
 
 <!-- Typing SVG -->
 <p align="center">
-  <a href="https://github.com/Mahesh702p">
-    <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&size=22&duration=3000&pause=1000&color=00FF99&center=true&vCenter=true&repeat=true&width=620&height=80&lines=Backend+Developer+%7C+AI+%26+Data+Science;AI+Intern+%40+Hiranandani+Group;Placement+Coordinator+%40+TSEC;Always+Learning+%26+Exploring" alt="Typing SVG" />
+  <a href="https://mahesh702p.github.io/Mahesh-Portfolio/">
+    <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&size=20&duration=3000&pause=1000&color=00FF99&center=true&vCenter=true&repeat=true&width=620&height=70&lines=AI+Intern+%40+Hiranandani+Group;AI%2FML+Research+Intern+%40+TSEC;Placement+Coordinator+%40+TSEC+TPC;Check+out+my+interactive+live+portfolio!" alt="Typing SVG" />
   </a>
 </p>
 
 <!-- Profile Badges -->
 <p align="center">
+  <a href="https://mahesh702p.github.io/Mahesh-Portfolio/">
+    <img src="https://img.shields.io/badge/⚡_LIVE_PORTFOLIO-0c1017?style=for-the-badge&logo=googlechrome&logoColor=00ff99" />
+  </a>
+  &nbsp;
   <a href="https://github.com/Mahesh702p?tab=followers">
     <img alt="followers" title="Follow me on GitHub" src="https://custom-icon-badges.demolab.com/github/followers/Mahesh702p?color=1a6b3c&labelColor=14532d&style=for-the-badge&logo=person-add&label=Follow&logoColor=white"/>
   </a>
@@ -29,29 +34,28 @@
 
 ---
 
-<!-- ══════════════ TERMINAL HERO SECTION ══════════════ -->
+<!-- ══════════════ TERMINAL STATUS SECTION ══════════════ -->
 
 ```console
-mahesh@github:~$ whoami
+mahesh@github:~$ journalctl -u work.log
 ```
 
-> Hey, I'm Mahesh — a **B.E. AI & Data Science** student at **Thadomal Shahani Engineering College**, Mumbai ('27).
+> 🏢 **AI Intern | Hiranandani Group** *(June 2026 – July 2026)*  
+> Built CardVault PWA leveraging Gemini Vision API, smart search engine with AI query expansion, real-time Gate Check-In/Out app, and enterprise PO website.
 > 
-> Backend developer passionate about **AI/ML, Linux systems, and clean scalable architectures**.
-> Previously interned at **Hiranandani Group** building AI-powered enterprise tools, and conducted **AI/ML research** on Graph Neural Networks and Reinforcement Learning.
+> 🧠 **AI/ML Research Intern | TSEC** *(Dec 2025 – Jan 2026)*  
+> Node classification study on GCNs/GATs. Developed EAGRPO/KL-GRPO step-level gradient routing framework for RLVR (+1.04% MATH-500, +2.83% AIME 2025 on Qwen3-4B).
 > 
-> Outside of code, drawing and creative work play a big role in how I think and express ideas. Always learning and exploring.
+> 📋 **Envoy & Placement Coordinator | TSEC TPC** *(July 2026 – Present)*  
+> Coordinating pre-placement talks, hiring protocols, and managing recruitment databases.
 
 ```console
-mahesh@github:~$ cat current_status.log
+mahesh@github:~$ eductl status
 ```
 
-> 🔭 **Building** : NLP pipelines, Security analytics tools  
-> 🧠 **Exploring** : GNNs, RLVR, Multi-Agent Systems  
-> 🏢 **Interned at** : Hiranandani Group (AI Intern)  
-> 🎓 **Studying** : AI & Data Science @ TSEC (CGPA: 8.23)  
-> 📋 **Leading** : Placement Coordinator @ TSEC TPC  
-> 💬 **Ask me about** : Python, AI/ML, Backend Dev, Linux  
+> 🎓 **B.E. AI & Data Science** — Thadomal Shahani Engineering College *(CGPA: 8.23 | 2023–2027)*  
+> 🏫 **HSC (88.5%)** — SVKM's Mithibai Junior College *(2021–2023)*  
+> 🏫 **SSC (92.60%)** — Kudos Kids Secondary School *(2021)*
 
 ---
 
@@ -163,11 +167,11 @@ mahesh@github:~$ cat current_status.log
 
 <!-- ══════════════ CONNECT ══════════════ -->
 
-<h3 align="center">🔗 Connect with me</h3>
+<h3 align="center">🔗 Connect & Live Portfolio</h3>
 
 <p align="center">
   <a href="https://mahesh702p.github.io/Mahesh-Portfolio/">
-    <img src="https://img.shields.io/badge/Portfolio-0c1017?style=for-the-badge&logo=googlechrome&logoColor=00ff99"/>
+    <img src="https://img.shields.io/badge/🌐_Interactive_Portfolio-0c1017?style=for-the-badge&logo=googlechrome&logoColor=00ff99"/>
   </a>
   <a href="https://www.linkedin.com/in/mahesh-patel-0308b72ba/">
     <img src="https://img.shields.io/badge/LinkedIn-0c1017?style=for-the-badge&logo=linkedin&logoColor=00ff99"/>
@@ -182,10 +186,3 @@ mahesh@github:~$ cat current_status.log
     <img src="https://img.shields.io/badge/Instagram-0c1017?style=for-the-badge&logo=instagram&logoColor=00ff99"/>
   </a>
 </p>
-
-<br/>
-
-<!-- Footer Wave -->
-<div align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0c1017,50:1a2332,100:00ff99&height=120&section=footer" width="100%"/>
-</div>
