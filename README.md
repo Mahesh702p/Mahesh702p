@@ -4,21 +4,14 @@
 
 <p align="center">
   <a href="https://mahesh702p.github.io/Mahesh-Portfolio/">
-    <img src="https://raw.githubusercontent.com/Mahesh702p/Mahesh702p/main/assets/hero-banner-v2.svg?v=2" alt="Mahesh Patel Portfolio Hero" width="100%" />
+    <img src="https://raw.githubusercontent.com/Mahesh702p/Mahesh702p/main/assets/portfolio-home-v3.svg?v=3" alt="Mahesh Patel Interactive Portfolio" width="100%" />
   </a>
 </p>
 
-<!-- Typing SVG -->
+<!-- Profile Badges & Quick Links -->
 <p align="center">
   <a href="https://mahesh702p.github.io/Mahesh-Portfolio/">
-    <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&size=20&duration=3000&pause=1000&color=00FF99&center=true&vCenter=true&repeat=true&width=620&height=70&lines=AI+Intern+%40+Hiranandani+Group;AI%2FML+Research+Intern+%40+TSEC;Placement+Coordinator+%40+TSEC+TPC;Check+out+my+interactive+live+portfolio!" alt="Typing SVG" />
-  </a>
-</p>
-
-<!-- Profile Badges -->
-<p align="center">
-  <a href="https://mahesh702p.github.io/Mahesh-Portfolio/">
-    <img src="https://img.shields.io/badge/⚡_LIVE_PORTFOLIO-0c1017?style=for-the-badge&logo=googlechrome&logoColor=00ff99" />
+    <img src="https://img.shields.io/badge/⚡_VISIT_LIVE_PORTFOLIO-0c1017?style=for-the-badge&logo=googlechrome&logoColor=00ff99" />
   </a>
   &nbsp;
   <a href="https://github.com/Mahesh702p?tab=followers">
@@ -31,31 +24,6 @@
   &nbsp;
   <img src="https://komarev.com/ghpvc/?username=Mahesh702p&label=Profile+Views&color=00ff99&style=for-the-badge" alt="Profile Views" />
 </p>
-
----
-
-<!-- ══════════════ TERMINAL STATUS SECTION ══════════════ -->
-
-```console
-mahesh@github:~$ journalctl -u work.log
-```
-
-> 🏢 **AI Intern | Hiranandani Group** *(June 2026 – July 2026)*  
-> Built CardVault PWA leveraging Gemini Vision API, smart search engine with AI query expansion, real-time Gate Check-In/Out app, and enterprise PO website.
-> 
-> 🧠 **AI/ML Research Intern | TSEC** *(Dec 2025 – Jan 2026)*  
-> Node classification study on GCNs/GATs. Developed EAGRPO/KL-GRPO step-level gradient routing framework for RLVR (+1.04% MATH-500, +2.83% AIME 2025 on Qwen3-4B).
-> 
-> 📋 **Envoy & Placement Coordinator | TSEC TPC** *(July 2026 – Present)*  
-> Coordinating pre-placement talks, hiring protocols, and managing recruitment databases.
-
-```console
-mahesh@github:~$ eductl status
-```
-
-> 🎓 **B.E. AI & Data Science** — Thadomal Shahani Engineering College *(CGPA: 8.23 | 2023–2027)*  
-> 🏫 **HSC (88.5%)** — SVKM's Mithibai Junior College *(2021–2023)*  
-> 🏫 **SSC (92.60%)** — Kudos Kids Secondary School *(2021)*
 
 ---
 
@@ -167,7 +135,7 @@ mahesh@github:~$ eductl status
 
 <!-- ══════════════ CONNECT ══════════════ -->
 
-<h3 align="center">🔗 Connect & Live Portfolio</h3>
+<h3 align="center">🔗 Connect</h3>
 
 <p align="center">
   <a href="https://mahesh702p.github.io/Mahesh-Portfolio/">
