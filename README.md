@@ -8,6 +8,13 @@
   </a>
 </p>
 
+<!-- Typing SVG -->
+<p align="center">
+  <a href="https://mahesh702p.github.io/Mahesh-Portfolio/">
+    <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&size=22&duration=3000&pause=1000&color=00FF99&center=true&vCenter=true&repeat=true&width=500&height=50&lines=Backend+Developer;AI+Intern+%40+Hiranandani;AI%2FML+Research+Intern;Placement+Coordinator" alt="Typing Title" />
+  </a>
+</p>
+
 <!-- Profile Badges & Quick Links -->
 <p align="center">
   <a href="https://mahesh702p.github.io/Mahesh-Portfolio/">
