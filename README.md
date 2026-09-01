@@ -2,10 +2,10 @@
 <!-- Profile README — Mahesh Patel (@Mahesh702p)                       -->
 <!-- ═══════════════════════════════════════════════════════════════════ -->
 
-<!-- Big Dynamic Waving Banner Header (Ubuntu Font) -->
+<!-- Big Dynamic Slice Header with Twinkling Animation -->
 <p align="center">
   <a href="https://mahesh702p.github.io/Mahesh-Portfolio/">
-    <img src="https://raw.githubusercontent.com/Mahesh702p/Mahesh702p/main/assets/hero-banner.svg?v=1" alt="Mahesh Patel Header" width="100%" />
+    <img src="https://capsule-render.vercel.app/api?type=slice&height=260&color=0c1017&text=MAHESH%20PATEL&fontColor=00ff99&fontAlign=50&fontAlignY=50&animation=twinkling&fontSize=85" alt="Mahesh Patel Header" width="100%" />
   </a>
 </p>
 
