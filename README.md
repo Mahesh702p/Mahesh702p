@@ -2,10 +2,10 @@
 <!-- Profile README — Mahesh Patel (@Mahesh702p)                       -->
 <!-- ═══════════════════════════════════════════════════════════════════ -->
 
-<!-- Big Dynamic Slice Header with Twinkling Animation -->
+<!-- Big Dynamic Gradient Slice Header -->
 <p align="center">
   <a href="https://mahesh702p.github.io/Mahesh-Portfolio/">
-    <img src="https://capsule-render.vercel.app/api?type=slice&height=260&color=0c1017&text=MAHESH%20PATEL&fontColor=00ff99&fontAlign=50&fontAlignY=50&animation=twinkling&fontSize=85" alt="Mahesh Patel Header" width="100%" />
+    <img src="https://capsule-render.vercel.app/api?type=slice&height=300&color=gradient&text=MAHESH%20PATEL&fontAlign=50&fontAlignY=50&animation=fadeIn&textBg=false&fontSize=90" alt="Mahesh Patel Header" width="100%" />
   </a>
 </p>
 
