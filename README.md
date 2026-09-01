@@ -44,17 +44,6 @@ mahesh@github:~$ whoami
 > 
 > Outside of that, drawing and creative work play a big role in how I think and express ideas. Always learning and exploring.
 
-```console
-mahesh@github:~$ cat current_quest.log
-```
-
-> 🔭 **Building** : Warden (Linux Security Analytics) & Municipal Grievance Routing Engine  
-> 🧠 **Exploring** : RLVR, Graph Neural Networks (GCNs/GATs), Agentic Workflows  
-> 🏢 **Working at** : Hiranandani Group (AI Intern) & TSEC TPC (Placement Coordinator)  
-> 🏆 **Competing / Wins** : Augenblick Hackathon 2026 Finalist  
-> 🔬 **Researching** : EAGRPO / KL-GRPO Step-Level Gradient Routing  
-> 💬 **Ask me about** : Python, FastAPI, Linux Systems, AI/ML, Backend Architecture
-
 ---
 
 <!-- ══════════════ FEATURED PROJECTS ══════════════ -->
