@@ -2,9 +2,14 @@
 <!-- Profile README — Mahesh Patel (@Mahesh702p)                       -->
 <!-- ═══════════════════════════════════════════════════════════════════ -->
 
-<h1 align="center">👨‍💻 MAHESH PATEL</h1>
+<!-- Big Dynamic Waving Banner Header -->
+<p align="center">
+  <a href="https://mahesh702p.github.io/Mahesh-Portfolio/">
+    <img src="https://capsule-render.vercel.app/api?type=waving&color=14532d&height=220&section=header&text=MAHESH%20PATEL&fontSize=52&fontColor=00ff99&fontAlign=50&fontAlignY=38&desc=Backend%20Developer%20%7C%20AI%2FML%20Researcher&descSize=20&descAlign=50&descAlignY=62" alt="Mahesh Patel Header" width="100%" />
+  </a>
+</p>
 
-<!-- Typing SVG -->
+<!-- Typing Title -->
 <p align="center">
   <a href="https://mahesh702p.github.io/Mahesh-Portfolio/">
     <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&size=22&duration=3000&pause=1000&color=00FF99&center=true&vCenter=true&repeat=true&width=600&height=50&lines=Backend+Developer;AI+Intern+%40+Hiranandani;AI%2FML+Research+Intern;Placement+Coordinator+%40+TSEC" alt="Typing Title" />
