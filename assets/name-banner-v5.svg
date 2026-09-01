@@ -1,0 +1,32 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 950 150" width="100%">
+  <defs>
+    <style>
+      @import url('https://fonts.googleapis.com/css2?family=JetBrains+Mono:wght@700&amp;display=swap');
+      
+      .bg-main { fill: #0c1017; rx: 10px; ry: 10px; stroke: #1e293b; stroke-width: 1px; }
+      
+      .ascii-name-single { 
+        fill: #00ff99; 
+        font-family: 'JetBrains Mono', 'Courier New', monospace; 
+        font-size: 10.5px; 
+        font-weight: 700; 
+        white-space: pre;
+      }
+    </style>
+  </defs>
+
+  <!-- Background Card -->
+  <rect width="950" height="150" class="bg-main" />
+
+  <!-- Single Line ASCII Art: MAHESH PATEL -->
+  <g transform="translate(45, 30)">
+    <text class="ascii-name-single">
+      <tspan x="0" dy="13">███╗   ███╗ █████╗ ██╗  ██╗███████╗███████╗██╗  ██╗    ██████╗  █████╗ ████████╗███████╗██╗     </tspan>
+      <tspan x="0" dy="13">████╗ ████║██╔══██╗██║  ██║██╔════╝██╔════╝██║  ██║    ██╔══██╗██╔══██╗╚══██╔══╝██╔════╝██║     </tspan>
+      <tspan x="0" dy="13">██╔████╔██║███████║███████║█████╗  ███████╗███████║    ██████╔╝███████║   ██║   █████╗  ██║     </tspan>
+      <tspan x="0" dy="13">██║╚██╔╝██║██╔══██║██╔══██║██╔══╝  ╚════██║██╔══██║    ██╔═══╝ ██╔══██║   ██║   ██╔══╝  ██║     </tspan>
+      <tspan x="0" dy="13">██║ ╚═╝ ██║██║  ██║██║  ██║███████╗███████╗██║  ██║    ██║     ██║  ██║   ██║   ███████╗███████╗</tspan>
+      <tspan x="0" dy="13">╚═╝     ╚═╝╚═╝  ╚═╝╚═╝  ╚═╝╚══════╝╚══════╝╚═╝  ╚═╝    ╚═╝     ╚═╝  ╚═╝   ╚═╝   ╚══════╝╚══════╝</tspan>
+    </text>
+  </g>
+</svg>
