@@ -121,17 +121,12 @@ mahesh@github:~$ whoami
   <br/>
 
   <p align="center">
-    <img width="49%" src="https://github-readme-stats.vercel.app/api?username=Mahesh702p&show_icons=true&theme=react&bg_color=0c1017&title_color=00ff99&icon_color=00ff99&text_color=c9d1d9&hide_border=true&count_private=true" alt="GitHub Stats"/>
+    <img width="49%" src="https://github-readme-stats-fast.vercel.app/api?username=Mahesh702p&show_icons=true&theme=react&bg_color=0c1017&title_color=00ff99&icon_color=00ff99&text_color=c9d1d9&hide_border=true&count_private=true" alt="GitHub Stats"/>
     <img width="49%" src="https://github-readme-streak-stats.herokuapp.com/?user=Mahesh702p&theme=react&background=0c1017&ring=00ff99&fire=00ff99&currStreakLabel=00ff99&hide_border=true" alt="Streak Stats"/>
   </p>
 
   <p align="center">
-    <img width="40%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Mahesh702p&layout=compact&theme=react&bg_color=0c1017&title_color=00ff99&hide_border=true&langs_count=8" alt="Top Languages"/>
-  </p>
-
-  <!-- Activity Graph -->
-  <p align="center">
-    <img width="98%" src="https://github-readme-activity-graph.vercel.app/graph?username=Mahesh702p&theme=react-dark&bg_color=0c1017&color=00ff99&line=00ff99&point=ffffff&area=true&area_color=00ff99&hide_border=true" alt="Activity Graph"/>
+    <img width="45%" src="https://github-readme-stats-fast.vercel.app/api/top-langs/?username=Mahesh702p&layout=compact&theme=react&bg_color=0c1017&title_color=00ff99&hide_border=true&langs_count=8" alt="Top Languages"/>
   </p>
 
 </details>
