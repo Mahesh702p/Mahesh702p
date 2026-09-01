@@ -18,7 +18,7 @@
 <!-- Profile Badges & Quick Links -->
 <p align="center">
   <a href="https://mahesh702p.github.io/Mahesh-Portfolio/">
-    <img src="https://img.shields.io/badge/⚡_VISIT_LIVE_PORTFOLIO-0c1017?style=for-the-badge&logo=googlechrome&logoColor=00ff99" />
+    <img src="https://custom-icon-badges.demolab.com/badge/Live_Portfolio-Website-00ff99?style=for-the-badge&logo=globe&labelColor=14532d&color=00ff99&logoColor=white" alt="Live Portfolio" />
   </a>
   &nbsp;
   <a href="https://github.com/Mahesh702p?tab=followers">
