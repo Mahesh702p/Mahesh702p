@@ -113,20 +113,29 @@ mahesh@github:~$ whoami
 
 ---
 
-<!-- ══════════════ GITHUB STATS ══════════════ -->
+<!-- ══════════════ GITHUB STATS & ACTIVITY ══════════════ -->
 
 <details open>
-  <summary><h2>📊 GitHub Stats</h2></summary>
+  <summary><h2>📊 GitHub Stats & Activity</h2></summary>
 
   <br/>
 
   <p align="center">
     <img width="49%" src="https://github-readme-stats-fast.vercel.app/api?username=Mahesh702p&show_icons=true&theme=react&bg_color=0c1017&title_color=00ff99&icon_color=00ff99&text_color=c9d1d9&hide_border=true&count_private=true" alt="GitHub Stats"/>
-    <img width="49%" src="https://github-readme-streak-stats.herokuapp.com/?user=Mahesh702p&theme=react&background=0c1017&ring=00ff99&fire=00ff99&currStreakLabel=00ff99&hide_border=true" alt="Streak Stats"/>
+    <img width="49%" src="https://github-readme-stats-fast.vercel.app/api/top-langs/?username=Mahesh702p&layout=compact&theme=react&bg_color=0c1017&title_color=00ff99&hide_border=true&langs_count=8" alt="Top Languages"/>
   </p>
 
+  <br/>
+
   <p align="center">
-    <img width="45%" src="https://github-readme-stats-fast.vercel.app/api/top-langs/?username=Mahesh702p&layout=compact&theme=react&bg_color=0c1017&title_color=00ff99&hide_border=true&langs_count=8" alt="Top Languages"/>
+    <img width="60%" src="https://github-readme-streak-stats.herokuapp.com/?user=Mahesh702p&theme=react&background=0c1017&ring=00ff99&fire=00ff99&currStreakLabel=00ff99&hide_border=true" alt="Streak Stats"/>
+  </p>
+
+  <br/>
+
+  <!-- Snake Contribution Grid Animation -->
+  <p align="center">
+    <img width="100%" src="https://raw.githubusercontent.com/Mahesh702p/Mahesh702p/output/github-contribution-grid-snake-dark.svg" alt="Snake eating GitHub contribution grid" />
   </p>
 
 </details>
